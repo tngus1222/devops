@@ -1,0 +1,22 @@
+# 3주차 Python
+__pycache__/
+*.pyc
+.venv/
+
+# 4주차 백업
+week04/backups/
+week04/restore-check/
+
+# 비밀정보
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# 로그 및 임시 파일
+*.log
+*.tmp
+
+# Windows 다운로드 메타데이터
+*:Zone.Identifier
