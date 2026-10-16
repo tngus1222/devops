@@ -24,8 +24,8 @@ USER appuser
 #appuser 사용자 계정을 사용하도록 설정
 
 ENV APP_TITLE="고수현의 방명록" \
-    THEME_COLOR="#ffffff"
-#환경 변수를 설정함 app_title을 inhatc devops 방명록으로 하고 theme_color를 #0054a6으로 설정
+    THEME_COLOR="#708090"
+#환경 변수를 설정함 app_title을 inhatc devops 방명록으로 하고 theme_color를 #708090으로 설정
 
 EXPOSE 5000
 #포트 번호로 5000을 사용한다고 명시
